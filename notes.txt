@@ -1,0 +1,20 @@
+HTML is HperText Markup Language = tool we use to create websites
+1. gives instructions to a computer
+2. computer will then follow the instructions to create our website 
+3. Web browsers have a dedicated JavaScript engine that parses the html code.  
+
+HTML Element
+1. various tags used in html are elments 
+
+HTML Attribute
+1. Modifies how an element behaves 
+2. Placed inside the opening tag
+3. Each element has its own set of attributes it can use. Not every element can use every attribute.
+4. void elements do not need a closing tag
+
+CSS
+1. css property tells the computer what we are changing 
+2. css value tell the computer what we changing the property to 
+3. add a '.' infront of the class attribute you are modifying. To change all of the elements use the element name with no '.'
+4. Pseudo class adds extra styles in a certain situation 
+5. CSS has specificity, the selector that is more specific gets higher priority. (Class properties have higher priority than element properties). 
